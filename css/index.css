@@ -1,9 +1,31 @@
-body{
-    padding: 0px;
-    margin: 0px;
+.container-fluid{
+    
     font-family: 'Times New Roman', Times, serif;
 }
 /* start ohnmar */
+.ohnmar{
+    background-image: url('../images/soliderback.jpg');
+    height: 90vh;
+}
+.ohnmarow{
+    background-color: #353d25;
+    opacity: 0.7;
+
+}
+.ohnmarow i{
+    color:#dfd406;
+    font-size: 15px;
+}
+.navbar, li a{
+    color:#ffffff !important;
+}
+
+
+.ohnmarsecond img{
+    width: 50%;
+    height: 20vh;
+}
+
 /* end ohnmar */
 
 /* start htain */

@@ -14,4 +14,41 @@ body{
 /* end uthein */
 
 /* start nyi */
+.nyi-cardfont{
+    font-size: 0.6rem !important;
+    color: #c7c0b4;
+}
+.nyi-titlefont{
+    font-size: 0.9rem;
+}
+.nyi-14font{
+    font-size: 14px;
+}
+.nyi-buttoncol{
+    background-color: #c1ca33;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+.nyi-bordernone{
+    border: 0px !important;
+}
+.nyi-container-fluid{
+    padding: 0px !important;
+    background-image: url('../images/4548584.jpg');
+    overflow: hidden;
+    color: white;
+}
+.nyi-fontsizeone{
+    font-family: Stencil Std;
+    margin-bottom: -0.5rem;
+}
+.nyi-military{
+    font-size: 10px;
+}
+.nyiallp li{
+    font-size: 12px;
+    padding-bottom: 10px;
+    list-style-type: none;
+}
 /* end nyi */
